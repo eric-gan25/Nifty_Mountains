@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1582652176 source:c:\users\ericy\desktop\ics4u\1niftymountains-eric-gan\gan_eric nifty mountains\main.cpp
+	<iostream>
+	<apmatrix.h>
+	<fstream>
+	<math.h>
+	<time.h>
+	"header.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1582592911 source:c:\users\ericy\desktop\ics4u\1niftymountains-eric-gan\gan_eric nifty mountains\allegrofunctions.cpp
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1582652463 source:c:\users\ericy\desktop\ics4u\1niftymountains-eric-gan\gan_eric nifty mountains\basefunctions.cpp
+	<iostream>
+	<apmatrix.h>
+	<fstream>
+	<math.h>
+	<time.h>
+	"header.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1581892165 source:c:\users\ericy\desktop\ics4u\1niftymountains-eric-gan\gan_eric nifty mountains\filefunctions.cpp
+
+1582317726 source:c:\users\ericy\desktop\ics4u\1niftymountains-eric-gan\gan_eric nifty mountains\abovefunctions.cpp
+	<iostream>
+	<apmatrix.h>
+	<fstream>
+	<math.h>
+	<time.h>
+	"header.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1582593802 c:\users\ericy\desktop\ics4u\1niftymountains-eric-gan\gan_eric nifty mountains\header.h
+	<apmatrix.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1582319676 source:c:\users\ericy\desktop\ics4u\1niftymountains-eric-gan\gan_eric nifty mountains\actionfunctions.cpp
+	<iostream>
+	<apmatrix.h>
+	<fstream>
+	<math.h>
+	<time.h>
+	"header.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1582653495 source:c:\users\ericy\desktop\ics4u\1niftymountains-eric-gan\gan_eric nifty mountains\aboveandbeyondfunctions.cpp
+	<iostream>
+	<apmatrix.h>
+	<fstream>
+	<math.h>
+	<time.h>
+	"header.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
