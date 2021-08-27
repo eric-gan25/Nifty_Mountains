@@ -1,12 +1,3 @@
- /*****************************************************************************
- *	Name:     Eric Gan                                                       *
- *	Date:     02/25/2020                                                     *
- *                                                                           *
- *	Description: Displays possible paths from one side of a mountain         *
- *               to another while looking at the smallest change in elevation*
- *  Known Issue: 5 Direction Greedy Algorithm takes more time to run the     *
- *               whole thing.                                                *
- *****************************************************************************/
 #include <iostream>
 #include <apmatrix.h>
 #include <fstream>
